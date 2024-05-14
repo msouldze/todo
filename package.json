@@ -1,8 +1,8 @@
 {
-  "name": "react-todo-2.9",
+  "name": "todo",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://msouldze.github.io/react-todo-2.9/",
+  "homepage": "https://msouldze.github.io/todo/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
